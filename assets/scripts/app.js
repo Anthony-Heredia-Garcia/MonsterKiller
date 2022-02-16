@@ -10,8 +10,7 @@ adjustHealthBars(chosenMaxLife);
 
 function attackMonster (mode) {
 
-}
-
+}//
 function attackHandler() {
     const damage = dealMonsterDamage(ATTACK_VALUE);
     currentMonsterHealth -= damage;
