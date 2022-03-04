@@ -256,6 +256,7 @@ function printLogHandler() {
   }
 }
 
+// Event Listeners for handling function execution on click.
 attackBtn.addEventListener("click", attackHandler);
 strongAttackBtn.addEventListener("click", strongAttackHandler);
 healBtn.addEventListener("click", healPlayerHandler);
