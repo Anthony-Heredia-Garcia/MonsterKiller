@@ -31,7 +31,7 @@ try {
 } catch (error) {
   console.log(error);
   chosenMaxLife = 100;
-  alert('You entered something wrong, default value of 100 used instead!')
+  alert('You entered something wrong, default value of 100 used instead.')
 }
 
 
